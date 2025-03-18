@@ -1,0 +1,10 @@
+body{
+    background-color: midnightblue;
+    color: rgb(210, 228, 245);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.info{
+    color: rgb(184, 184, 184);
+    font-weight: 600;
+}
